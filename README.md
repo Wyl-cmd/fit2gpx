@@ -57,10 +57,7 @@ fit2gpx/
 ├── fit2gpx_converter.py  # 主程序文件
 ├── README.md             # 项目说明
 ├── b.ico                 # 程序图标
-├── 解析.txt               # 程序技术解析
-├── venv/                 # Python虚拟环境
-├── build/                # PyInstaller构建目录
-└── dist/                 # 打包后的可执行文件目录
+└── venv/                 # Python虚拟环境
 ```
 
 ## 打包成可执行文件
@@ -85,3 +82,5 @@ pyinstaller --onefile --windowed --icon=b.ico fit2gpx_converter.py
 ## 作者
 
 Wyl-k
+QQ群：521292550
+B站主页：https://space.bilibili.com/3546591426251062
