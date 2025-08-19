@@ -81,6 +81,6 @@ pyinstaller --onefile --windowed --icon=b.ico fit2gpx_converter.py
 
 ## 作者
 
-Wyl-k
-QQ群：521292550
-B站主页：https://space.bilibili.com/3546591426251062
+- Wyl-k
+- QQ群：521292550
+- B站主页：https://space.bilibili.com/3546591426251062
